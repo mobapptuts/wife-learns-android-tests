@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">June Test One</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="june_textview">Test</string>
+    <string name="june_test_textview">Junes Test</string>
+    <string name="june_edittext_hint">Enter Name</string>
+    <string name="june_button_name">Send</string>
+    <string name="june_button_press">Hello June</string>
+    <string name="nige_button_press">Hello Nige</string>
+    <string name="button1">Button One</string>
+    <string name="button2">Button Two</string>
+    <string name="button3">Button Three</string>
+</resources>
